@@ -4,7 +4,7 @@ public class ArrayLengthCheck {
 
     public static String[] checkAndReturn (String [] arr, int start, int length){
 
-        if (arr.length < 1 ) return null;
+        if (arr.length < 1  || start < 0) return null;
 
         int remainder = (arr.length - 1) - start;
 
@@ -25,7 +25,7 @@ public class ArrayLengthCheck {
     }
     public static void main(String[] args) {
         String [] ar = {"a","b","c","d","4","6","f","y","1","3","9"};
-        String[] re = checkAndReturn(ar, 0, 12);
+        String[] re = checkAndReturn(ar, -1, 12);
         if (re !=null) {
             for (int i = 0; i < re.length; i++) {
                 System.out.print(re[i]+" ");
