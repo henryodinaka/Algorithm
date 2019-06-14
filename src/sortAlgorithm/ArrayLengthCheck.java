@@ -10,11 +10,13 @@ public class ArrayLengthCheck {
 
         if (length > remainder) return null;
 
-        String [] array = new String[remainder];
+        String [] array = new String[length];
 
         int j =0;
 
-        for (int i = start; i==remainder; i++){
+        for (int i = start; i < arr.length; i++){
+
+            if (j ==length) break;
 
             array[j] = arr[i];
             j++;
@@ -23,11 +25,11 @@ public class ArrayLengthCheck {
     }
     public static void main(String[] args) {
         String [] ar = {"a","b","c","d","4","6","f","y","1","3","9"};
-        String[] re = checkAndReturn(ar, 4, 3);
-        if (re.length > 0) {
+        String[] re = checkAndReturn(ar, 0, 12);
+        if (re !=null) {
             for (int i = 0; i < re.length; i++) {
-                System.out.print(re[i]);
+                System.out.print(re[i]+" ");
             }
-        }else System.out.println(re[0]);
+        }else System.out.println(re);
     }
 }
