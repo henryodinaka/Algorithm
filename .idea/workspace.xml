@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="510c4512-ba8d-4ea2-b0f6-8f1c6953b7c8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/sortAlgorithm/Base10ToBase2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sortAlgorithm/ArrayLengthCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -31,11 +32,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sortAlgorithm/Base10ToBase2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="142">
-              <caret line="24" column="21" lean-forward="true" selection-start-line="24" selection-start-column="21" selection-end-line="25" selection-end-column="46" />
+              <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="25" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/sortAlgorithm/ArrayLengthCheck.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="30" column="37" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -77,6 +87,7 @@
         <option value="$PROJECT_DIR$/src/sortAlgorithm/Solution.java" />
         <option value="$PROJECT_DIR$/src/sortAlgorithm/DictionaryMap.java" />
         <option value="$PROJECT_DIR$/src/sortAlgorithm/Base10ToBase2.java" />
+        <option value="$PROJECT_DIR$/src/sortAlgorithm/ArrayLengthCheck.java" />
       </list>
     </option>
   </component>
@@ -92,6 +103,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -114,7 +126,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -123,6 +134,10 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="public" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -140,7 +155,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Base10ToBase2">
+  <component name="RunManager" selected="Application.ArrayLengthCheck">
+    <configuration name="ArrayLengthCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sortAlgorithm.ArrayLengthCheck" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sortAlgorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Base10ToBase2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sortAlgorithm.Base10ToBase2" />
       <module name="Algorithm" />
@@ -156,19 +184,6 @@
     </configuration>
     <configuration name="DictionaryMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sortAlgorithm.DictionaryMap" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sortAlgorithm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HourGlass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sortAlgorithm.HourGlass" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -208,11 +223,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayLengthCheck" />
         <item itemvalue="Application.Base10ToBase2" />
         <item itemvalue="Application.DictionaryMap" />
         <item itemvalue="Application.ReverseArray" />
         <item itemvalue="Application.Matrix" />
-        <item itemvalue="Application.HourGlass" />
       </list>
     </recent_temporary>
   </component>
@@ -237,17 +252,18 @@
       <workItem from="1559890653432" duration="13348000" />
       <workItem from="1559992382804" duration="1140000" />
       <workItem from="1560368327823" duration="23347000" />
+      <workItem from="1560526120865" duration="2329000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86576000" />
+    <option name="totallyTimeSpent" value="88905000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1213" height="775" extended-state="6" />
+    <frame x="43" y="25" width="1323" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19537275" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1981206" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -256,7 +272,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32972136" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49957156" visible="true" weight="0.32817337" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49957156" visible="true" weight="0.32736155" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3993808" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -580,9 +596,32 @@
     <entry file="file://$PROJECT_DIR$/src/sortAlgorithm/Base10ToBase2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="142">
-          <caret line="24" column="21" lean-forward="true" selection-start-line="24" selection-start-column="21" selection-end-line="25" selection-end-column="46" />
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="25" selection-end-column="44" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/sortAlgorithm/ArrayLengthCheck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="30" column="37" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
