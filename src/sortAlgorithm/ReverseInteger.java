@@ -12,9 +12,10 @@ public class ReverseInteger {
         for (int i = numLen - 1; i > -1; i--){
             builder.append(numToString.charAt(i));
         }
-       return Integer.valueOf(builder.toString()) * -1;
+        if (num <0) return Integer.valueOf(builder.toString()) * -1;
+        else return Integer.valueOf(builder.toString());
     }
     public static void main(String[] args) {
-        System.out.println(reverse(-345666376));
+        System.out.println(reverse(1000));
     }
 }
