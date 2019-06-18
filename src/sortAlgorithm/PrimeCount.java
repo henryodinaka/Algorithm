@@ -43,7 +43,7 @@ public class PrimeCount {
 
     public static void main(String[] args) {
 
-        int i = primeCount(2, 10000000);
+        int i = primeCount(14, 11);
         System.out.println(i);
 
     }
