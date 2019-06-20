@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="510c4512-ba8d-4ea2-b0f6-8f1c6953b7c8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/sortAlgorithm/Inertial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sortAlgorithm/MadhavArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sortAlgorithm/NextPerfectSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sortAlgorithm/Upcount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sortAlgorithm/PerfectSquarePair.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/sortAlgorithm/PrimeCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/sortAlgorithm/PrimeCount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sortAlgorithm/PrimeCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sortAlgorithm/PrimeCount.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -70,14 +65,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sortAlgorithm/Inertial.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="63" column="29" selection-start-line="63" selection-start-column="29" selection-end-line="63" selection-end-column="29" />
+            <state relative-caret-position="480">
+              <caret line="66" column="31" selection-start-line="66" selection-start-column="31" selection-end-line="66" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/sortAlgorithm/PerfectSquarePair.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="61">
+              <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -150,6 +154,7 @@
         <option value="$PROJECT_DIR$/src/sortAlgorithm/Upcount.java" />
         <option value="$PROJECT_DIR$/src/sortAlgorithm/MadhavArray.java" />
         <option value="$PROJECT_DIR$/src/sortAlgorithm/Inertial.java" />
+        <option value="$PROJECT_DIR$/src/sortAlgorithm/PerfectSquarePair.java" />
       </list>
     </option>
   </component>
@@ -225,7 +230,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Inertial">
+  <component name="RunManager" selected="Application.PerfectSquarePair">
     <configuration name="Inertial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sortAlgorithm.Inertial" />
       <module name="Algorithm" />
@@ -265,8 +270,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimeCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sortAlgorithm.PrimeCount" />
+    <configuration name="PerfectSquarePair" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sortAlgorithm.PerfectSquarePair" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -293,11 +298,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PerfectSquarePair" />
         <item itemvalue="Application.Inertial" />
         <item itemvalue="Application.MadhavArray" />
         <item itemvalue="Application.Upcount" />
         <item itemvalue="Application.NextPerfectSquare" />
-        <item itemvalue="Application.PrimeCount" />
       </list>
     </recent_temporary>
   </component>
@@ -323,12 +328,12 @@
       <workItem from="1559992382804" duration="1140000" />
       <workItem from="1560368327823" duration="24405000" />
       <workItem from="1560839911728" duration="1869000" />
-      <workItem from="1560936621913" duration="16154000" />
+      <workItem from="1560936621913" duration="18341000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="125402000" />
+    <option name="totallyTimeSpent" value="127589000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="43" y="25" width="1323" height="743" extended-state="6" />
@@ -348,7 +353,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49871466" weight="0.32972136" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49871466" weight="0.32899022" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5012854" side_tool="true" weight="0.32972136" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32817337" />
@@ -1128,11 +1133,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/sortAlgorithm/Inertial.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="63" column="29" selection-start-line="63" selection-start-column="29" selection-end-line="63" selection-end-column="29" />
+        <state relative-caret-position="480">
+          <caret line="66" column="31" selection-start-line="66" selection-start-column="31" selection-end-line="66" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sortAlgorithm/PerfectSquarePair.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="61">
+          <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
         </state>
       </provider>
     </entry>
