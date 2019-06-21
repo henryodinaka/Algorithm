@@ -36,9 +36,24 @@ public class GuthrieSequence {
          else return 0;
 
     }
+    public static int guthrieIndex(int n){
+        int temp = n;
+        int count =0;
+
+        while ( temp >0){
+
+            if (temp ==1) break;
+            if (temp % 2 == 0)  temp /= 2 ;
+            else temp = (temp * 3) + 1;
+
+            count++;
+        }
+        return count;
+    }
     public static void main(String[] args) {
 //        int[] arr = {7,17,4,1};
-        int[] arr = { 7,22,11,34,17,52,26,13,40,20,10,5,16,8,4,2,1};
-        System.out.println(isGuthrieSequence(arr));
+//        int[] arr = { 7,22,11,34,17,52,26,13,40,20,10,5,16,8,4,2,1};
+//        System.out.println(isGuthrieSequence(arr));
+        System.out.println(guthrieIndex(7));
     }
 }
