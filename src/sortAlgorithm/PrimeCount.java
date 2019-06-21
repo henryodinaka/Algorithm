@@ -38,7 +38,7 @@ public class PrimeCount {
         }
 //        prime.forEach(p -> System.out.print(p+" "));
         System.out.print("\nTotal prime numbers between "+start+" and "+end+" is :");
-        return prime.size();
+      gi  return prime.size();
     }
 
     public static void main(String[] args) {
