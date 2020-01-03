@@ -2,10 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="510c4512-ba8d-4ea2-b0f6-8f1c6953b7c8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/META-INF/Algorithm.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/sortAlgorithm/GuthrieSequence.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/sortAlgorithm/Inertial.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/sortAlgorithm/MadhavArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/sortAlgorithm/NextPerfectSquare.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/sortAlgorithm/PerfectSquarePair.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/sortAlgorithm/PorcupineNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/sortAlgorithm/StantonMeasure.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/sortAlgorithm/SumFactor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/sortAlgorithm/Upcount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sortAlgorithm/AreaOfRecTableTuring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sortAlgorithm/GuthrieSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sortAlgorithm/Inertial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sortAlgorithm/MadhavArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sortAlgorithm/MinimumConcatTuring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sortAlgorithm/NextPerfectSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sortAlgorithm/OfficeSpaceTuring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sortAlgorithm/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sortAlgorithm/PerfectSquarePair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sortAlgorithm/PorcupineNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sortAlgorithm/Solve10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sortAlgorithm/StantonMeasure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sortAlgorithm/SumFactor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sortAlgorithm/TestinG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sortAlgorithm/TuringArgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sortAlgorithm/Upcount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sortAlgorithm/source_file.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/sortAlgorithm/PrimeCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/sortAlgorithm/PrimeCount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sortAlgorithm/PrimeCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sortAlgorithm/PrimeCount.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,52 +55,10 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sortAlgorithm/CompareArrays.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1005">
-              <caret line="69" column="5" selection-start-line="69" selection-start-column="5" selection-end-line="69" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sortAlgorithm/PointOfEquilibrium.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="765">
-              <caret line="51" column="18" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/sortAlgorithm/PrimeCount.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="13650">
-              <caret line="910" column="13" selection-start-line="910" selection-start-column="13" selection-end-line="910" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="Class" />
       </list>
     </option>
@@ -94,70 +79,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/sortAlgorithm/SelectionSort.java" />
-        <option value="$PROJECT_DIR$/src/sortAlgorithm/MergeConquerSort.java" />
-        <option value="$PROJECT_DIR$/src/sortAlgorithm/Day6.java" />
-        <option value="$PROJECT_DIR$/src/sortAlgorithm/ReverseArray.java" />
-        <option value="$PROJECT_DIR$/src/sortAlgorithm/Matrix.java" />
-        <option value="$PROJECT_DIR$/src/sortAlgorithm/HourGlass.java" />
-        <option value="$PROJECT_DIR$/src/sortAlgorithm/Solution.java" />
-        <option value="$PROJECT_DIR$/src/sortAlgorithm/DictionaryMap.java" />
-        <option value="$PROJECT_DIR$/src/sortAlgorithm/Base10ToBase2.java" />
-        <option value="$PROJECT_DIR$/src/sortAlgorithm/ArrayLengthCheck.java" />
-        <option value="$PROJECT_DIR$/src/sortAlgorithm/ReverseInteger.java" />
-        <option value="$PROJECT_DIR$/src/sortAlgorithm/CompareArrays.java" />
-        <option value="$PROJECT_DIR$/src/sortAlgorithm/PointOfEquilibrium.java" />
-        <option value="$PROJECT_DIR$/src/sortAlgorithm/PrimeCount.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="77" />
-    <option name="y" value="47" />
-    <option name="width" value="966" />
-    <option name="height" value="666" />
-  </component>
+  <component name="ProjectId" id="1VchoHIMCJ8yNkgk13EJAzZvYKa" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="sortAlgorithm" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -172,23 +102,11 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.PrimeCount">
-    <configuration name="Base10ToBase2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sortAlgorithm.Base10ToBase2" />
+  <component name="RunManager" selected="Application.AreaOfRecTableTuring">
+    <configuration name="AreaOfRecTableTuring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sortAlgorithm.AreaOfRecTableTuring" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -200,8 +118,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CompareArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sortAlgorithm.CompareArrays" />
+    <configuration name="MinimumConcatTuring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sortAlgorithm.MinimumConcatTuring" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -213,8 +131,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DictionaryMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sortAlgorithm.DictionaryMap" />
+    <configuration name="OfficeSpaceTuring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sortAlgorithm.OfficeSpaceTuring" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -226,8 +144,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PointOfEquilibrium" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sortAlgorithm.PointOfEquilibrium" />
+    <configuration name="Rextester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sortAlgorithm.Rextester" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -239,8 +157,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimeCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sortAlgorithm.PrimeCount" />
+    <configuration name="TestinG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sortAlgorithm.TestinG" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -254,13 +172,25 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PrimeCount" />
-        <item itemvalue="Application.PointOfEquilibrium" />
-        <item itemvalue="Application.CompareArrays" />
-        <item itemvalue="Application.Base10ToBase2" />
-        <item itemvalue="Application.DictionaryMap" />
+        <item itemvalue="Application.AreaOfRecTableTuring" />
+        <item itemvalue="Application.Rextester" />
+        <item itemvalue="Application.MinimumConcatTuring" />
+        <item itemvalue="Application.OfficeSpaceTuring" />
+        <item itemvalue="Application.TestinG" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -284,49 +214,69 @@
       <workItem from="1559992382804" duration="1140000" />
       <workItem from="1560368327823" duration="24405000" />
       <workItem from="1561058864091" duration="599000" />
+      <workItem from="1577558465658" duration="2037000" />
+      <workItem from="1577577227001" duration="12305000" />
+      <workItem from="1577616632938" duration="27420000" />
+      <workItem from="1577786154279" duration="268000" />
+      <workItem from="1577788021610" duration="622000" />
+      <workItem from="1577790867279" duration="1229000" />
+      <workItem from="1577792900865" duration="1848000" />
+      <workItem from="1577794817734" duration="22000" />
+      <workItem from="1577794875793" duration="9266000" />
+      <workItem from="1577959369825" duration="15680000" />
+      <workItem from="1577997061549" duration="5514000" />
+      <workItem from="1578037688515" duration="599000" />
     </task>
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="109318000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1213" height="775" extended-state="6" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24935733" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32972136" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49957156" weight="0.32817337" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3993808" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49871466" visible="true" weight="0.32972136" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5012854" side_tool="true" weight="0.32972136" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32817337" />
-      <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="12" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Mongo Explorer" order="6" />
-      <window_info anchor="right" id="Database" order="7" weight="0.32990575" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info anchor="right" id="Theme Preview" order="9" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="481" y="116" width="374" height="592" key="#com.intellij.ide.util.MemberChooser" timestamp="1577811230402">
+      <screen x="67" y="27" width="1213" height="773" />
+    </state>
+    <state x="481" y="116" width="374" height="592" key="#com.intellij.ide.util.MemberChooser/67.27.1213.773@67.27.1213.773" timestamp="1577811230402" />
+    <state x="356" y="140" width="624" height="544" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1577794831998">
+      <screen x="67" y="27" width="1213" height="773" />
+    </state>
+    <state x="356" y="140" width="624" height="544" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/67.27.1213.773@67.27.1213.773" timestamp="1577794831998" />
+    <state width="1167" height="185" key="GridCell.Tab.0.bottom" timestamp="1578022407187">
+      <screen x="67" y="27" width="1213" height="773" />
+    </state>
+    <state width="1167" height="185" key="GridCell.Tab.0.bottom/67.27.1213.773@67.27.1213.773" timestamp="1578022407187" />
+    <state width="1167" height="185" key="GridCell.Tab.0.center" timestamp="1578022407187">
+      <screen x="67" y="27" width="1213" height="773" />
+    </state>
+    <state width="1167" height="185" key="GridCell.Tab.0.center/67.27.1213.773@67.27.1213.773" timestamp="1578022407187" />
+    <state width="1167" height="185" key="GridCell.Tab.0.left" timestamp="1578022407186">
+      <screen x="67" y="27" width="1213" height="773" />
+    </state>
+    <state width="1167" height="185" key="GridCell.Tab.0.left/67.27.1213.773@67.27.1213.773" timestamp="1578022407186" />
+    <state width="1167" height="185" key="GridCell.Tab.0.right" timestamp="1578022407187">
+      <screen x="67" y="27" width="1213" height="773" />
+    </state>
+    <state width="1167" height="185" key="GridCell.Tab.0.right/67.27.1213.773@67.27.1213.773" timestamp="1578022407187" />
+    <state width="1167" height="416" key="GridCell.Tab.1.bottom" timestamp="1577998028859">
+      <screen x="67" y="27" width="1213" height="773" />
+    </state>
+    <state width="1167" height="416" key="GridCell.Tab.1.bottom/67.27.1213.773@67.27.1213.773" timestamp="1577998028859" />
+    <state width="1167" height="416" key="GridCell.Tab.1.center" timestamp="1577998028858">
+      <screen x="67" y="27" width="1213" height="773" />
+    </state>
+    <state width="1167" height="416" key="GridCell.Tab.1.center/67.27.1213.773@67.27.1213.773" timestamp="1577998028858" />
+    <state width="1167" height="416" key="GridCell.Tab.1.left" timestamp="1577998028858">
+      <screen x="67" y="27" width="1213" height="773" />
+    </state>
+    <state width="1167" height="416" key="GridCell.Tab.1.left/67.27.1213.773@67.27.1213.773" timestamp="1577998028858" />
+    <state width="1167" height="416" key="GridCell.Tab.1.right" timestamp="1577998028859">
+      <screen x="67" y="27" width="1213" height="773" />
+    </state>
+    <state width="1167" height="416" key="GridCell.Tab.1.right/67.27.1213.773@67.27.1213.773" timestamp="1577998028859" />
+    <state x="337" y="183" key="run.anything.popup" timestamp="1577811605326">
+      <screen x="67" y="27" width="1213" height="773" />
+    </state>
+    <state x="337" y="183" key="run.anything.popup/67.27.1213.773@67.27.1213.773" timestamp="1577811605326" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -350,497 +300,715 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sortAlgorithm/MergeConquerSort.java</url>
           <line>100</line>
-          <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sortAlgorithm/MergeConquerSort.java</url>
           <line>103</line>
-          <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sortAlgorithm/MergeConquerSort.java</url>
           <line>23</line>
-          <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sortAlgorithm/MergeConquerSort.java</url>
           <line>25</line>
-          <properties />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sortAlgorithm/MergeConquerSort.java</url>
           <line>29</line>
-          <properties />
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sortAlgorithm/MergeConquerSort.java</url>
           <line>31</line>
-          <properties />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sortAlgorithm/MergeConquerSort.java</url>
           <line>34</line>
-          <properties />
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sortAlgorithm/MergeConquerSort.java</url>
           <line>37</line>
-          <properties />
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sortAlgorithm/MergeConquerSort.java</url>
           <line>41</line>
-          <properties />
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sortAlgorithm/MergeConquerSort.java</url>
           <line>40</line>
-          <properties />
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sortAlgorithm/Day6.java</url>
           <line>6</line>
-          <properties />
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sortAlgorithm/Day6.java</url>
           <line>12</line>
-          <properties />
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sortAlgorithm/Day6.java</url>
           <line>15</line>
-          <properties />
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sortAlgorithm/Day6.java</url>
           <line>20</line>
-          <properties />
           <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sortAlgorithm/Day6.java</url>
           <line>23</line>
-          <properties />
           <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sortAlgorithm/Day6.java</url>
           <line>26</line>
-          <properties />
           <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sortAlgorithm/Day6.java</url>
           <line>27</line>
-          <properties />
           <option name="timeStamp" value="27" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sortAlgorithm/Day6.java</url>
           <line>30</line>
-          <properties />
           <option name="timeStamp" value="28" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sortAlgorithm/Day6.java</url>
           <line>33</line>
-          <properties />
           <option name="timeStamp" value="29" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sortAlgorithm/ReverseArray.java</url>
           <line>35</line>
-          <properties />
           <option name="timeStamp" value="31" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sortAlgorithm/ReverseArray.java</url>
           <line>37</line>
-          <properties />
           <option name="timeStamp" value="32" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sortAlgorithm/ReverseArray.java</url>
           <line>38</line>
-          <properties />
           <option name="timeStamp" value="33" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sortAlgorithm/ReverseArray.java</url>
           <line>40</line>
-          <properties />
           <option name="timeStamp" value="34" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sortAlgorithm/ReverseArray.java</url>
           <line>41</line>
-          <properties />
           <option name="timeStamp" value="35" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sortAlgorithm/ReverseArray.java</url>
           <line>45</line>
-          <properties />
           <option name="timeStamp" value="37" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sortAlgorithm/ReverseArray.java</url>
           <line>43</line>
-          <properties />
           <option name="timeStamp" value="38" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sortAlgorithm/ReverseArray.java</url>
           <line>44</line>
-          <properties />
           <option name="timeStamp" value="39" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sortAlgorithm/ReverseArray.java</url>
           <line>48</line>
-          <properties />
           <option name="timeStamp" value="40" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sortAlgorithm/ReverseArray.java</url>
           <line>16</line>
-          <properties />
           <option name="timeStamp" value="43" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sortAlgorithm/ReverseArray.java</url>
           <line>18</line>
-          <properties />
           <option name="timeStamp" value="44" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sortAlgorithm/ReverseArray.java</url>
           <line>21</line>
-          <properties />
           <option name="timeStamp" value="48" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sortAlgorithm/ReverseArray.java</url>
           <line>22</line>
-          <properties />
           <option name="timeStamp" value="49" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sortAlgorithm/PointOfEquilibrium.java</url>
           <line>31</line>
-          <properties />
           <option name="timeStamp" value="50" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sortAlgorithm/PointOfEquilibrium.java</url>
           <line>11</line>
-          <properties />
           <option name="timeStamp" value="51" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sortAlgorithm/PointOfEquilibrium.java</url>
           <line>14</line>
-          <properties />
           <option name="timeStamp" value="52" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sortAlgorithm/PointOfEquilibrium.java</url>
           <line>13</line>
-          <properties />
           <option name="timeStamp" value="53" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sortAlgorithm/PointOfEquilibrium.java</url>
           <line>15</line>
-          <properties />
           <option name="timeStamp" value="54" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sortAlgorithm/PointOfEquilibrium.java</url>
           <line>29</line>
-          <properties />
           <option name="timeStamp" value="56" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sortAlgorithm/PointOfEquilibrium.java</url>
           <line>32</line>
-          <properties />
           <option name="timeStamp" value="57" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sortAlgorithm/PointOfEquilibrium.java</url>
           <line>33</line>
-          <properties />
           <option name="timeStamp" value="58" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sortAlgorithm/PointOfEquilibrium.java</url>
           <line>37</line>
-          <properties />
           <option name="timeStamp" value="59" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sortAlgorithm/PointOfEquilibrium.java</url>
           <line>38</line>
-          <properties />
           <option name="timeStamp" value="60" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sortAlgorithm/PointOfEquilibrium.java</url>
           <line>39</line>
-          <properties />
           <option name="timeStamp" value="61" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sortAlgorithm/PointOfEquilibrium.java</url>
           <line>46</line>
-          <properties />
           <option name="timeStamp" value="62" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sortAlgorithm/PointOfEquilibrium.java</url>
           <line>28</line>
-          <properties />
           <option name="timeStamp" value="64" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sortAlgorithm/PointOfEquilibrium.java</url>
           <line>20</line>
-          <properties />
           <option name="timeStamp" value="65" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sortAlgorithm/PointOfEquilibrium.java</url>
           <line>21</line>
-          <properties />
           <option name="timeStamp" value="66" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sortAlgorithm/PointOfEquilibrium.java</url>
           <line>22</line>
-          <properties />
           <option name="timeStamp" value="67" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sortAlgorithm/PointOfEquilibrium.java</url>
           <line>23</line>
-          <properties />
           <option name="timeStamp" value="68" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sortAlgorithm/PointOfEquilibrium.java</url>
           <line>24</line>
-          <properties />
           <option name="timeStamp" value="71" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sortAlgorithm/PointOfEquilibrium.java</url>
           <line>25</line>
-          <properties />
           <option name="timeStamp" value="72" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sortAlgorithm/PrimeCount.java</url>
           <line>13</line>
-          <properties />
           <option name="timeStamp" value="73" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sortAlgorithm/PrimeCount.java</url>
           <line>15</line>
-          <properties />
           <option name="timeStamp" value="76" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sortAlgorithm/PrimeCount.java</url>
           <line>28</line>
-          <properties />
           <option name="timeStamp" value="83" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sortAlgorithm/PrimeCount.java</url>
           <line>23</line>
-          <properties />
           <option name="timeStamp" value="86" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sortAlgorithm/PrimeCount.java</url>
           <line>25</line>
-          <properties />
           <option name="timeStamp" value="87" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sortAlgorithm/PrimeCount.java</url>
           <line>21</line>
-          <properties />
           <option name="timeStamp" value="88" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sortAlgorithm/PrimeCount.java</url>
           <line>33</line>
-          <properties />
           <option name="timeStamp" value="89" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sortAlgorithm/PrimeCount.java</url>
           <line>29</line>
-          <properties />
           <option name="timeStamp" value="90" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sortAlgorithm/PrimeCount.java</url>
           <line>19</line>
-          <properties />
           <option name="timeStamp" value="91" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sortAlgorithm/PrimeCount.java</url>
           <line>35</line>
-          <properties />
           <option name="timeStamp" value="92" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sortAlgorithm/PrimeCount.java</url>
           <line>36</line>
-          <properties />
           <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/Upcount.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/Upcount.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/Upcount.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/Upcount.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/Upcount.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/MadhavArray.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/MadhavArray.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/MadhavArray.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/MadhavArray.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/MadhavArray.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/MadhavArray.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/MadhavArray.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/MadhavArray.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/MadhavArray.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/MadhavArray.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/MadhavArray.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/Inertial.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/Inertial.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/Inertial.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/Inertial.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/Inertial.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/Inertial.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/Inertial.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/Inertial.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/Inertial.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/Inertial.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/Inertial.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/Inertial.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/Inertial.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/Inertial.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/Inertial.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/Inertial.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/Inertial.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/PorcupineNumber.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/PorcupineNumber.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/PorcupineNumber.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/PorcupineNumber.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/PorcupineNumber.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/PorcupineNumber.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/PorcupineNumber.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/PorcupineNumber.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/PorcupineNumber.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/PorcupineNumber.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/PorcupineNumber.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/PorcupineNumber.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="147" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/PorcupineNumber.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/PorcupineNumber.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="150" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/PorcupineNumber.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/PorcupineNumber.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/OfficeSpaceTuring.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="165" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/OfficeSpaceTuring.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="166" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/OfficeSpaceTuring.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="167" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/OfficeSpaceTuring.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="168" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/OfficeSpaceTuring.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="169" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/OfficeSpaceTuring.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="171" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/OfficeSpaceTuring.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="172" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/OfficeSpaceTuring.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="173" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/OfficeSpaceTuring.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="176" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/OfficeSpaceTuring.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="177" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/OfficeSpaceTuring.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="178" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/OfficeSpaceTuring.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="179" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/OfficeSpaceTuring.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="180" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/OfficeSpaceTuring.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="181" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/OfficeSpaceTuring.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="182" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/OfficeSpaceTuring.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="184" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/OfficeSpaceTuring.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="186" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/OfficeSpaceTuring.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="187" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/AreaOfRecTableTuring.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="204" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/AreaOfRecTableTuring.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="209" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/AreaOfRecTableTuring.java</url>
+          <line>79</line>
+          <option name="timeStamp" value="215" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/AreaOfRecTableTuring.java</url>
+          <line>80</line>
+          <option name="timeStamp" value="216" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/AreaOfRecTableTuring.java</url>
+          <line>81</line>
+          <option name="timeStamp" value="217" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/AreaOfRecTableTuring.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="222" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/AreaOfRecTableTuring.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="223" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/AreaOfRecTableTuring.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="224" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/AreaOfRecTableTuring.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="225" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/AreaOfRecTableTuring.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="226" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/AreaOfRecTableTuring.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="227" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/OfficeSpace.js</url>
+          <line>18</line>
+          <option name="timeStamp" value="159" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/sortAlgorithm/OfficeSpace.js</url>
+          <line>20</line>
+          <option name="timeStamp" value="163" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sortAlgorithm/SelectionSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="31" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sortAlgorithm/MergeConquerSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sortAlgorithm/Day6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sortAlgorithm/HourGlass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sortAlgorithm/Matrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="825">
-          <caret line="56" column="17" selection-start-line="56" selection-start-column="17" selection-end-line="56" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/array.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sortAlgorithm/ReverseArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="27" column="5" selection-start-line="14" selection-start-column="4" selection-end-line="27" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar!/java/io/FileInputStream.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1125">
-          <caret line="79" column="4" selection-start-line="79" selection-start-column="4" selection-end-line="79" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sortAlgorithm/DictionaryMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar!/java/io/PrintStream.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="301" column="16" selection-start-line="301" selection-start-column="16" selection-end-line="301" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sortAlgorithm/Base10ToBase2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sortAlgorithm/CompareArrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1005">
-          <caret line="69" column="5" selection-start-line="69" selection-start-column="5" selection-end-line="69" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sortAlgorithm/PointOfEquilibrium.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="51" column="18" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13650">
-          <caret line="910" column="13" selection-start-line="910" selection-start-column="13" selection-end-line="910" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sortAlgorithm/PrimeCount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
   </component>
   <component name="masterDetails">
     <states>
