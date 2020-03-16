@@ -2,36 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="510c4512-ba8d-4ea2-b0f6-8f1c6953b7c8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/META-INF/Algorithm.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/sortAlgorithm/GuthrieSequence.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/sortAlgorithm/Inertial.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/sortAlgorithm/MadhavArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/sortAlgorithm/NextPerfectSquare.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/sortAlgorithm/PerfectSquarePair.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/sortAlgorithm/PorcupineNumber.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/sortAlgorithm/StantonMeasure.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/sortAlgorithm/SumFactor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/sortAlgorithm/Upcount.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sortAlgorithm/AreaOfRecTableTuring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sortAlgorithm/GuthrieSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sortAlgorithm/Inertial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sortAlgorithm/MadhavArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sortAlgorithm/MinimumConcatTuring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sortAlgorithm/NextPerfectSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sortAlgorithm/OfficeSpaceTuring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sortAlgorithm/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sortAlgorithm/PerfectSquarePair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sortAlgorithm/PorcupineNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sortAlgorithm/Solve10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sortAlgorithm/StantonMeasure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sortAlgorithm/SumFactor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sortAlgorithm/TestinG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sortAlgorithm/TuringArgorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sortAlgorithm/Upcount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sortAlgorithm/source_file.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tutorials/DataStructure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tutorials/LinkedListCustom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tutorials/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tutorials/StackCustom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tutorials/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/sortAlgorithm/PrimeCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/sortAlgorithm/PrimeCount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sortAlgorithm/PrimeCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sortAlgorithm/PrimeCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/META-INF/Algorithm.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tutorials/JavaStreamSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorials/JavaStreamSample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +71,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="public" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="C:/projects/SwiftMT940Reader" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -104,13 +83,26 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.AreaOfRecTableTuring">
+  <component name="RunManager" selected="Application.DataStructure">
     <configuration name="AreaOfRecTableTuring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sortAlgorithm.AreaOfRecTableTuring" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="sortAlgorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataStructure" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutorials.DataStructure" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tutorials.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,26 +149,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestinG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sortAlgorithm.TestinG" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sortAlgorithm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DataStructure" />
         <item itemvalue="Application.AreaOfRecTableTuring" />
         <item itemvalue="Application.Rextester" />
         <item itemvalue="Application.MinimumConcatTuring" />
         <item itemvalue="Application.OfficeSpaceTuring" />
-        <item itemvalue="Application.TestinG" />
       </list>
     </recent_temporary>
   </component>
@@ -226,6 +205,13 @@
       <workItem from="1577959369825" duration="15680000" />
       <workItem from="1577997061549" duration="5514000" />
       <workItem from="1578037688515" duration="599000" />
+      <workItem from="1583497125845" duration="3818000" />
+      <workItem from="1583920138999" duration="1415000" />
+      <workItem from="1584017971014" duration="41000" />
+      <workItem from="1584018047477" duration="576000" />
+      <workItem from="1584084792528" duration="1733000" />
+      <workItem from="1584086546299" duration="4403000" />
+      <workItem from="1584109391009" duration="1872000" />
     </task>
     <servers />
   </component>
@@ -237,25 +223,38 @@
       <screen x="67" y="27" width="1213" height="773" />
     </state>
     <state x="481" y="116" width="374" height="592" key="#com.intellij.ide.util.MemberChooser/67.27.1213.773@67.27.1213.773" timestamp="1577811230402" />
-    <state x="356" y="140" width="624" height="544" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1577794831998">
-      <screen x="67" y="27" width="1213" height="773" />
+    <state x="618" y="301" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583497244983">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="618" y="301" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1583497244983" />
+    <state x="366" y="120" width="624" height="544" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1584086512756">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="366" y="120" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1584086512756" />
     <state x="356" y="140" width="624" height="544" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/67.27.1213.773@67.27.1213.773" timestamp="1577794831998" />
-    <state width="1167" height="185" key="GridCell.Tab.0.bottom" timestamp="1578022407187">
-      <screen x="67" y="27" width="1213" height="773" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1583527072783">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583527072783" />
+    <state width="749" height="201" key="GridCell.Tab.0.bottom" timestamp="1584092200547">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="749" height="201" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584092200547" />
     <state width="1167" height="185" key="GridCell.Tab.0.bottom/67.27.1213.773@67.27.1213.773" timestamp="1578022407187" />
-    <state width="1167" height="185" key="GridCell.Tab.0.center" timestamp="1578022407187">
-      <screen x="67" y="27" width="1213" height="773" />
+    <state width="749" height="201" key="GridCell.Tab.0.center" timestamp="1584092200547">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="749" height="201" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584092200547" />
     <state width="1167" height="185" key="GridCell.Tab.0.center/67.27.1213.773@67.27.1213.773" timestamp="1578022407187" />
-    <state width="1167" height="185" key="GridCell.Tab.0.left" timestamp="1578022407186">
-      <screen x="67" y="27" width="1213" height="773" />
+    <state width="749" height="201" key="GridCell.Tab.0.left" timestamp="1584092200546">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="749" height="201" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584092200546" />
     <state width="1167" height="185" key="GridCell.Tab.0.left/67.27.1213.773@67.27.1213.773" timestamp="1578022407186" />
-    <state width="1167" height="185" key="GridCell.Tab.0.right" timestamp="1578022407187">
-      <screen x="67" y="27" width="1213" height="773" />
+    <state width="749" height="201" key="GridCell.Tab.0.right" timestamp="1584092200547">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="749" height="201" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584092200547" />
     <state width="1167" height="185" key="GridCell.Tab.0.right/67.27.1213.773@67.27.1213.773" timestamp="1578022407187" />
     <state width="1167" height="416" key="GridCell.Tab.1.bottom" timestamp="1577998028859">
       <screen x="67" y="27" width="1213" height="773" />
@@ -277,6 +276,10 @@
       <screen x="67" y="27" width="1213" height="773" />
     </state>
     <state x="337" y="183" key="run.anything.popup/67.27.1213.773@67.27.1213.773" timestamp="1577811605326" />
+    <state x="800" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1584085661438">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="800" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1584085661438" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

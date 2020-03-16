@@ -92,5 +92,11 @@ public class JavaStreamSample {
         IntSummaryStatistics summary = IntStream.of(7,2,19,88,73,4,10)
                 .summaryStatistics();
         System.out.println("Summery = "+summary);
+
+        System.out.println("========== FindFirst orElse ============");
+        List<Integer> intValues = Arrays.asList(7,2,19,88,73,4,10);
+        Integer result = intValues.stream().filter(i -> i < 20).findFirst().orElse(0);
+        System.out.println("Result = "+result);
+
     }
 }
